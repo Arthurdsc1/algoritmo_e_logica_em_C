@@ -7,8 +7,8 @@ O repositório reúne os problemas que resolvi durante o curso, organizados em u
 ## Conteúdo abordado
 
 - Entrada e saída de dados
-- Estruturas condicionais (`if` / `else`)
-- Estruturas de repetição (`while`, `for`)
+- Estruturas condicionais 
+- Estruturas de repetição 
 - Vetores
 - Matrizes
 
