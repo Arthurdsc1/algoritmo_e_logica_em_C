@@ -58,7 +58,7 @@ gcc tabuada.c -o tabuada
 ./tabuada
 ```
 
-## alguns exercícios em outras linguagens
+## Exercícios em outras linguagens
 
 - [Java](https://github.com/Arthurdsc1/Algoritmo_e_Logica_em_java)
 - [Python](https://github.com/Arthurdsc1/Algoritmos_e_logica_em_python)
